@@ -14,7 +14,7 @@ This project demonstrates the use of SimpleLinear Regression which has one indep
 
 ## Dataset:
 
-The following datasets is used for the project:
+The following dataset is used for the project:
 * Salary_dataset.csv : Contains only one input column and one output column.
 
 ## Requirements:
